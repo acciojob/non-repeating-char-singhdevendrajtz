@@ -17,7 +17,7 @@ function firstNonRepeatedChar(str) {
 	}
 	else 
 	{
-		return(arr);
+		return(arr.join(' '));
 	}
 	
 }
